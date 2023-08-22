@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=random&fontcolor=black&height=120&section=header&text=Hello%20World&fontSize=30&fontAlignY=30&fontAlign=20&desc=My%20name%20is%20Pakrminuk&descSize=30&descAlignY=70&descAlign=45)
 
+
+---
+
+
 <h3 align=center>
   <span>Introduction</span>
 </h3>
@@ -28,7 +32,7 @@ Here are some ideas to get you started:
 </div>
 
  
-
+---
 
   
 <h3 align=center>Languages</h3>
